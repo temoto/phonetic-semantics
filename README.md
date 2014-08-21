@@ -1,4 +1,8 @@
-phonetic-semantics
-==================
+What
+====
 
-Read phonetic semantics of words
+phonetic-semantics analyzes the emotions that are triggered by the sound of words.
+
+Currently supported languages:
+* Russian
+
