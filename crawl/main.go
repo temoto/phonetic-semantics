@@ -79,6 +79,6 @@ func main() {
 		versions = append(versions, *item)
 		items[w] = versions
 
-		break
+		storageSave()
 	}
 }
